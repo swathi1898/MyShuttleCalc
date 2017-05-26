@@ -30,4 +30,22 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <repositories>
+        <repository>
+            <id>nwcadence-visualstudio.com-maven</id>
+            <url>https://nwcadence.pkgs.visualstudio.com/_packaging/Maven/maven/v1</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+    <distributionManagement>
+        <repository>
+            <id>nwcadence-visualstudio.com-maven</id>
+            <url>https://nwcadence.pkgs.visualstudio.com/_packaging/Maven/maven/v1</url>
+        </repository>
+    </distributionManagement>
 </project>
