@@ -32,8 +32,8 @@
     </dependencies>
     <repositories>
         <repository>
-            <id>nwcadence-visualstudio.com-maven</id>
-            <url>https://nwcadence.pkgs.visualstudio.com/_packaging/Maven/maven/v1</url>
+            <id><!-- id of feed from Connect to Feed dialog in VSTS !--></id>
+            <url><!-- url of feed from Connect to Feed dialog in VSTS !--></url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -44,8 +44,8 @@
     </repositories>
     <distributionManagement>
         <repository>
-            <id>nwcadence-visualstudio.com-maven</id>
-            <url>https://nwcadence.pkgs.visualstudio.com/_packaging/Maven/maven/v1</url>
+            <id><!-- id of feed from Connect to Feed dialog in VSTS !--></id>
+            <url><!-- url of feed from Connect to Feed dialog in VSTS !--></url>
         </repository>
     </distributionManagement>
 </project>
