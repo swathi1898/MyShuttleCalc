@@ -51,8 +51,8 @@
     </dependencies>
     <repositories>
         <repository>
-            <id><!-- id of feed from Connect to Feed dialog in VSTS !--></id>
-            <url><!-- url of feed from Connect to Feed dialog in VSTS !--></url>
+            <id>487763890</id>
+            <url>https://github.com/swathi1898/MyShuttleCalc/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -63,8 +63,8 @@
     </repositories>
     <distributionManagement>
         <repository>
-            <id><!-- id of feed from Connect to Feed dialog in VSTS !--></id>
-            <url><!-- url of feed from Connect to Feed dialog in VSTS !--></url>
+            <id>487763890</id>
+            <url>https://github.com/swathi1898/MyShuttleCalc/</url>
         </repository>
     </distributionManagement>
 </project>
